@@ -1,6 +1,6 @@
-# Project Title
+# Shortykid610's Personal Website
 
-One Paragraph of project description goes here
+This site was made by [Chase88](http://steamcommunity.com/id/Chase88)
 
 ## Getting Started
 
