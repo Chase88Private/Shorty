@@ -2,6 +2,10 @@
 
 This site was made by [Chase88](http://steamcommunity.com/id/Chase88)
 
+## Built With
+
+* [Particle.js](https://vincentgarreau.com/particles.js/) - The background particles
+
 ## LEGAL 
 
 Copyright 2017 Chase88
