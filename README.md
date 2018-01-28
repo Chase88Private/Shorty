@@ -1,12 +1,12 @@
 # Shortykid610's Personal Website
 
-This site was made by [Chase88](http://steamcommunity.com/id/Chase88)
+* **Chase88** - *Site Creator* - [Website](https://chase88.tk)
 
 ## Built With
 
 * [Particle.js](https://vincentgarreau.com/particles.js/) - The background particles
 
-## LEGAL 
+## Legal
 
 Copyright 2017 Chase88
 
