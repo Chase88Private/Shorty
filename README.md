@@ -10,7 +10,7 @@ These sites are hand made to order, so each site looks different from one anothe
 
 Examples of my sites can be found here: https://Chase88.tk , https://Shortykid.tk , https://Sethibuns.tk 
 
-If you would like to buy one of these sites please add [@Chase88](http://steamcommunity.com/id/Chase88) on steam.
+If you would like to buy one of these sites please add [Chase88](http://steamcommunity.com/id/Chase88) on steam.
 
 ## Prices
 
