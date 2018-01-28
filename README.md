@@ -1,6 +1,6 @@
 # Shortykid610's Personal Website
 
-* **Chase88** - *Site Creator* - [Website](https://chase88.tk)
+*This site was made by:* [**Chase88**](https://chase88.tk)
 
 ## Built With
 
