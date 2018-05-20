@@ -68,7 +68,7 @@
  #particles-js{
    width: 100%;
    height: 100%;
-   background-image: url('http://magazine.viterbi.usc.edu/wp-content/uploads/BSP_054.jpg');
+   background-image: url('https://wallpapercave.com/wp/pEeUsp1.jpg');
    background-size: cover;
    background-position: 50% 50%;
    background-repeat: no-repeat;
@@ -92,15 +92,23 @@ canvas {
 	background: $background
 }
 
-.text {
-	position: absolute;
-	top: 50%;
-	right: 50%;
-	transform: translate(50%,-50%);
-	color: $text;
-	max-width: 90%;
-	padding: 2em 3em;
-	background: rgba(0, 0, 0, 0.4);
-	text-shadow: 0px 0px 2px #131415;
-	font-family: 'Open Sans', sans-serif;
+#text {
+    position: absolute;
+    z-index: 10;
+}
+
+#steam {
+    position: absolute;
+    z-index: 10;
+    transform: scale(0.2);
+    width:40%;
+ 	height:10%;
+}
+
+#twitch {
+    position: absolute;
+    z-index: 10;
+    transform: scale(0.2);
+    width:25%;
+ 	height:10%;
 }
