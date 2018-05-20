@@ -100,15 +100,15 @@ canvas {
 #steam {
     position: absolute;
     z-index: 10;
-    transform: scale(0.1);
-    width:40%;
- 	height:10%;
+    transform: scale(0.2);
+    top: -16%;
+ 	left: -1%;
 }
 
 #twitch {
     position: absolute;
     z-index: 10;
-    transform: scale(0.1);
-    width:25%;
- 	height:10%;
+    transform: scale(0.2);
+    top: -16%;
+ 	left: 5%;
 }
